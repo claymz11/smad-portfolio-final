@@ -10,10 +10,24 @@ p {
     font-size: 1.5rem;
 }
 
+.homep {
+    font-size: 1.75vw;
+}
+
+.cardp {
+    font-size: 1.4vw;
+}
+
 h1 {
     text-align: center;
     font-size: 5rem;
     color: black;
+}
+
+h3 {
+    margin: 3rem;
+    font-size: 2.3rem;
+    line-height: 150%;
 }
 
 h5 {
@@ -30,7 +44,7 @@ nav {
 }
 
 body {
-    background-color: #35363a;
+    background-color: #424242;
 }
 
 ul {
@@ -75,6 +89,10 @@ a {
   transform: translate(-50%, -50%);
   color: white;
   font-size: 4rem;
+}
+
+.jumbotron {
+    text-align: center;
 }
 
 
